@@ -78,7 +78,7 @@ MIT License - Szabadon használható, módosítható és terjeszthető.
 
 ***
 
-**Státusz:** ✅ Befejezett // Tervezett folytatás (Több lehetőség, kényelmi funkciók)
+**Státusz:** ✅ Befejezett *// Tervezett folytatás (Több lehetőség, kényelmi funkciók)*
 
 ***
 
